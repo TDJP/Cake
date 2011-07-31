@@ -1,0 +1,9 @@
+name: Cake
+main: com.tdjp.cake.Cake
+version: 1.0
+author: 'TDJP even though mike did it all'
+commands:
+    Cake:
+        description: Get the cake
+        usage: |
+               /<command>
